@@ -1,4 +1,4 @@
-# Spring Boot 继承 Alibaba Druid （较重要）
+# Spring Boot 集成 Alibaba Druid （较重要）
 
 ## 实践课程说明以及需求 
 
